@@ -5,7 +5,7 @@ This repo contains the implementation of our paper:
 Haleh Damirchi, Ali Etemad, Michael Greenspan
 
 **WACV 2025**  
-[[paper](https:...)]
+[[paper](https://arxiv.org/pdf/2412.04673)]
 
 <p align="center">
   <img src="/image/method.jpg" width="100%">
